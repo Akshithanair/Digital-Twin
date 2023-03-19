@@ -38,7 +38,7 @@
   ![img2](https://user-images.githubusercontent.com/120260992/226198001-5c0f4a9e-6f5b-455e-8ff6-25f992986758.jpg)
 
 ## Amazon web Sockets
-+ Unreal engine is connected to AWS with the help of AWS link which can be also used un IoT devices.
++ Unreal engine is connected to AWS with the help of AWS link which can be also used on IoT devices.
 ![img3](https://user-images.githubusercontent.com/120260992/226198188-201883f8-7a83-4739-bf64-a8cf3aee7c1e.png)
 
  + Creating lambda functions and DynamoDB table:
